@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: d6ead9f1f1986d640849bb53d7cb54e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enfermo 2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1290
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa09442c15a9e7a4f81d061b9860a68a
+      internalID: -1611366671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1290
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a3422e3e7d4f418b878f200d4f8d9
+      internalID: 457319910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1290
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1592d7de879f5409e008b8649cc490
+      internalID: -1674452850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1290
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7237f803441c394897d543c0f80f708
+      internalID: 293673656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1290
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa9131eebd8ee47ab673783f4ac544
+      internalID: -331087458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1290
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9d84bde9ac46459eadf15a16462a0
+      internalID: -558858174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1290
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80045174eb5474ba8e1a9a85e74f84
+      internalID: 1955927962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1226
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d4904e99df284e8bf5f8fb0e09e1e
+      internalID: -1092111027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1226
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7287840e0985e546ab7f6a60eaf488f
+      internalID: 1322847734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1226
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e5ff046e2fc1479c4fd8975a3cd3c
+      internalID: 1389432582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1226
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c930cd2797e7846bfb91a92cd2babd
+      internalID: -1978400933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1226
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f65889d41c9bdf40b6415ccac7ad554
+      internalID: -1490760352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1226
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31d71247564178418d2f9a15667cbc4
+      internalID: -617906416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1226
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839e9fafcbef094bacca45dbdc6f2ab
+      internalID: -1189783578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1161
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03656f195ab65cf4994db1f7bd97d55f
+      internalID: -1546211597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1161
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee1990deed82d4ab73c65ca1e43a09
+      internalID: -1066633446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1161
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b736a62a49021f43b0b9645f0777e6d
+      internalID: -1816651379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1161
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2a6362db1b7346a16f47dd0957ee2
+      internalID: 508523778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1161
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad92df2e395e9f4f93aafbdbf383797
+      internalID: 1611831945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1161
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9d869cf7630c40b59edb406c163a8
+      internalID: 2075629216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1161
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de18394513dad4b439d9da4c6dd873fd
+      internalID: 165459993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1097
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab809e7e5e8828c409c4f2e0e95f2dbf
+      internalID: -1084786079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1097
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae412591dd4c934aad348ba55e914a4
+      internalID: 98945334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1097
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba93da1bae0ee4ba0fbf7a4913e56a
+      internalID: -1318841980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1097
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7dcbdb6c18a1e4ab65f9e8b5fd6f04
+      internalID: 674678888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1097
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dde09293a77e945919083a8f2a9c2f
+      internalID: -201913185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1097
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7138b9c1aa5418488b32adfee53794e
+      internalID: -750550952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1097
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6bb7545975394daf2c7e02cb9190f
+      internalID: -1966018084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1034
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d13dd25ed04204cbb389ed03217e59
+      internalID: -1306539429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1033
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca478e5debe244295abce973cd75a0
+      internalID: 905033835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1032
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaefd6092a4d6cc4aa14e869157ee725
+      internalID: 1498578087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1032
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e75017f20dcfd48ad76502c908483f
+      internalID: -1278498153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1032
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238c65667a51144c9ee238f779122ad
+      internalID: -274363076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1032
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f342c5c1390f240928a0969bddcdc9
+      internalID: 594567517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1032
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a425b241f6a8458ee57a5102bf781
+      internalID: -1896302495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1032
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0edc1fd099cfde4fa8a5f7622aa9e84
+      internalID: 1482599151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 970
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebfd2c35d470949a159a9d055e673a
+      internalID: 1248104007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 970
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6daafd1091b54187591f00b398949
+      internalID: -814061591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 970
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51f1956d1218824d9cf08aaada5edd9
+      internalID: 1079419189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 970
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dadc6d8bca5754592fbaed282ca8ab
+      internalID: 1750604971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 970
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8d2a9fdf9bdf74fa645d71749c5d55
+      internalID: -293697053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 970
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90479fdd1c394442a4def9c676e7806
+      internalID: 1344830024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 970
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb202c78a598b904fa05948891bbd46f
+      internalID: -918562524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 970
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f19a7c230ee0478134c4e91e5445f
+      internalID: -1744862541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 905
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac688eb17c685d840af420924a459ee1
+      internalID: 1287500873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 906
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b3a49c450dcd34ba6f56c8d56b59db
+      internalID: 980784171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 907
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c339066c64af479f7cc5a96e5424f
+      internalID: -965134260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 907
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4e889fe68ce4468a946419dfc456a
+      internalID: -166860407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 907
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc6517510e81448b640d99df75c2dd
+      internalID: -1481781997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 907
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f699a0b97be7d224ca4ce5c412ff5974
+      internalID: -1388296919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 907
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938c083a15fd64469703c536173ec16
+      internalID: 250210724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 907
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb24b25c060064698de6fcd40d3e1d
+      internalID: -880762120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 841
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5081ce18e522d4a8d5083b6631d516
+      internalID: 1896426494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 841
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4c18f178b8204b8c47541df7a6c39
+      internalID: 1517981303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 841
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98760985699172c4e93f10ee24f8eb04
+      internalID: -1437034233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 841
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37cab0d030b3e41b629bc76a45f07c
+      internalID: 465542977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 841
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b06a6d454ae204a8818ae479dd7f30
+      internalID: 1491195731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 841
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6876bd36e0ba7e4c9696db68fb4569d
+      internalID: 1333073921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 841
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2294481a8b3bab2498f267e5eefa6574
+      internalID: -2046330343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 841
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8072c9341a42f543ba7886d6cc5682f
+      internalID: 676402265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 779
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cca425e80c7324cadfe6f297050f1f
+      internalID: 732780957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 778
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb12aeab8e8d074faa718784cff21c9
+      internalID: -1947851396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 777
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09d083e118c3040a99ee4210a9111a
+      internalID: -1981992118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 776
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6265373065c54e42a003bfebc3cc9f4
+      internalID: -736422765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 777
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0303086e224b04fb477143e90206bb
+      internalID: -1428160651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 778
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9723140cc70b8724f84a1959d79a57d0
+      internalID: 1107401215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 777
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7826b9bd1da064346916417ca2e30c55
+      internalID: -130022994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 776
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c31abcfd4d1be8498c33153d29241b4
+      internalID: 1843011270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 777
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc7a4e78517ed48a889da12854b2b7
+      internalID: -560286280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 714
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d3371396ca5b49b62fe61d00fbfda
+      internalID: -438135932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 714
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056232fd41cb5d34ebce3a4608052f3c
+      internalID: -18059646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 714
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53f6b7e12a069469ec93b0fbd406bc
+      internalID: 885101199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 714
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d216dd7311dd5a4f93d7937db9671e6
+      internalID: 1962099087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 714
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6be59addd2d224b9881346001c7a37
+      internalID: -386885029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 714
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9542d4aff2fec9744b04eae613efde4c
+      internalID: -1398394705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 714
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52b99d917821642b7693f72df9ecb6
+      internalID: -1267586429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 714
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2195d610882bc94eaf264abfd412b5f
+      internalID: -282159269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 714
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4e416bfea8a44791a737bf6c8841e
+      internalID: -1685622418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 649
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e889412fa6854ab00e0684dcaa5a9
+      internalID: 447742305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 649
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbfd850e2c4604daefde08876f7252
+      internalID: -1656195630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 649
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4aa0705966424c9214f1548a5abda
+      internalID: 726478343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 649
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573076ef3bf33d045ab0ce3cf933b5c6
+      internalID: 1496067948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 649
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57509377561b27e4cba4f3113f0eb8d3
+      internalID: -1761170005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 649
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678cd2913016d1b44b678cf80cb92896
+      internalID: 514638665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 649
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892291878b1af9446a6f0fc1d836045c
+      internalID: -145180445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 648
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae447eebdb39ef34998b72f69b41aae1
+      internalID: 458078715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 648
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc952f280832554d858c40bede0053a
+      internalID: -1620419274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 585
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952eae72bc41224498903c9671a9058
+      internalID: 1200325011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 585
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a9be13dc8378741ba5202ce6dcdb8e
+      internalID: 931300873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 586
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d2b0c5d1f73745bcb3e524b69c464
+      internalID: 1451224422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 586
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54e73b0392af245974f96b32721199
+      internalID: 1549441071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 586
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d187152ddf3db84f95bf77c36024a3e
+      internalID: 971753245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 585
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d355b0a27025f344c9ae46b42acdc1e8
+      internalID: 1872109168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 585
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e8b6bc1f7cfd6459dd8aa2d0c81d4b
+      internalID: -919097307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 585
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ea0194516bbb43aba5eaca84b773a
+      internalID: 1320198631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 585
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802c143b896c854695c18cdcc10aedb
+      internalID: 478923657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 522
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2020407b7e88ad47a0f7e2e3633677f
+      internalID: -676940176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 521
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aaedcc5bf61ae438d83ecb4416b8df
+      internalID: 770816221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 521
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edabaf346df134ebf46adf918e6081
+      internalID: -323268138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 521
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced193fcb0ea89f429f1b8331defdf8e
+      internalID: 1224391572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 521
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e533c5945df21ca40be9224f760e391a
+      internalID: 2093023996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 521
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0e546856213a94381d7e325afb71c2
+      internalID: -2053699853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 458
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58fa42f73caa8848b42ed705a9cc276
+      internalID: 1995331347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 458
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c35f8d5ae8a104c8765f62a9737a50
+      internalID: 1165634334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 458
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f26276a6f86b14f979dca7c9b394ba
+      internalID: 952662873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 458
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9879e826203743840e99ade8d7f11
+      internalID: -1510875071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 458
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc613d8489a897d45aa727f7ab6e4029
+      internalID: -1513285593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 458
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9782fffad8cbe04885ca4d6f7dba9f1
+      internalID: 1675336491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 393
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c66c3ae80c288e4597ba3ae54b13bfc
+      internalID: -1203183882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 393
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04896a0319c2ad4c8c8557c783e3db9
+      internalID: -1657871474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 393
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac239b89146eb41b3cde3de43ab949
+      internalID: -2113978584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 393
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c84ea26a0dab46b26829e8fa10531
+      internalID: 1787590304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 393
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9a7e806376a64eadf5ee58fd53532
+      internalID: 165310740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 393
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee887b24e63b24c806ec9a1ac60bbb
+      internalID: -940979652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 329
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6947d577710d4449adb57dc173efad
+      internalID: -1158272781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 329
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62af30432f4069479b89d75fae66ead
+      internalID: -106432447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 329
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6169be5e8e4a4db7c78b8e099a3a1
+      internalID: -764159287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 329
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6355e1f5bf034b8c2ea9d75bc73f1
+      internalID: 1235601867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 329
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5e43e7353326145b7ad77e59277bb7
+      internalID: -783555325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 329
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0174a7c267753542822752ae75d7237
+      internalID: -1323456361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 266
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0eb27ec957a0d4eaac4621666e213c
+      internalID: -1012310127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 265
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9774c132ff324704bb706c6b3487ebe5
+      internalID: -1745058090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11df331601301245b8cc0aa4f49bb9c
+      internalID: 1622396575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f6bde68fcaf44a8452d24c724369a
+      internalID: 914584283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fef890d983404bb3b9a9cb6645991
+      internalID: 1689128021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62265cc542b4a45448dccaae5bb3125b
+      internalID: 1918507963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164448d757d6bb041992a2dbec2202c4
+      internalID: 872061403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8977e9773964704296bedb0fbe93807
+      internalID: 869617345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 264
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3def4ebded1a4da615cadd4a5bc21
+      internalID: -207482564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82816b6dc7bc4c4d9eb52ab18db14cc
+      internalID: -211825989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883dbc37353fa4e4cb5bd94abc5a2b47
+      internalID: 1015820332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9d9cbb88714249a48fb5cdb76a648
+      internalID: -935918986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 264
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ae93ef7f4fed4fb739779f7247a57
+      internalID: -1693831769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 202
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed7c0dc35ff514f8b6e902d64c7f84
+      internalID: 167627113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 202
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc83f8e5b216a64792baa1dc65dc734
+      internalID: 487704273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 202
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5277893e0b078204ba92530fded5632f
+      internalID: 1651555027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 202
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e49506a3ab1447bed63b9c3863fa1
+      internalID: -560093668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 202
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241cbbb7fe44994b935d24eb2b62828
+      internalID: -2048242644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 202
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d8988e755aba459dbc561f0636d6e
+      internalID: 339863549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 202
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060258a8065036048820c11ae437705c
+      internalID: -332649946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 202
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d2dc6decaad140a5212acc9cb8492
+      internalID: -201286088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 202
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658f2fa0743f7844be34b59bb441001
+      internalID: 1518228101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 202
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e435aa41240440bd611f0ed96ea6c
+      internalID: -2100230729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 202
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057d32e04da8cc44817a02c0b31ce48
+      internalID: -222341514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 202
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb360ed1fe22246b45271010202802
+      internalID: 661350977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 202
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefab4d28065d74199da16acb3453ca
+      internalID: -1302781199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 137
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7c175a53a16648b7815eadb633155
+      internalID: 1440729793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 137
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0304d723a657a14fa251e0b784577ca
+      internalID: 416164484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_148
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 139
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7a94d57b48664d8efe9191bf17aa5
+      internalID: -134009735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b03ffe7699c84cbca3e272109b260
+      internalID: 685940742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c7de5da4723be47ab4256691c5d7e2
+      internalID: -1605116369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_151
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e1add519969440af0e05071e6efc9
+      internalID: 800634858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_152
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f38cac5195b64190cc55c7c5001b9
+      internalID: 1357007189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b73d8c95d46f64ab64940663e8cccc
+      internalID: -235842773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_154
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52351e49ed95c4f95d9606eb4c54b8
+      internalID: 1019899982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_155
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adddc8258276264ead40e4fde4fdab2
+      internalID: 1061973123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_156
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b03243fc490eb498095c9046c3086a
+      internalID: 1458855554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_157
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1458d61b709044b561dc917a1c5f4
+      internalID: 1508077570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_158
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 138
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c397f260c6f3c7488ef7381e264a0cd
+      internalID: -47643643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510f04bfdfb4ca24bb08167072e977cd
+      internalID: 1237720252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d09304bce21b498fdd1dc3f29132f
+      internalID: -1069594412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609de50952739043b8a704c12354368
+      internalID: -1436649068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 73
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086cd6c55fbc9a345b7dfc737a231613
+      internalID: 1845915731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 73
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e649da3e4ce03438d6ef54a7e92fd4
+      internalID: 714309788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 73
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40334bbbbd56544be706fe7e2851bc
+      internalID: 1762346329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 73
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a89da31bbb4e74a87b34614c883a9e
+      internalID: 2096899020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 73
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9367069858714a85d6cafb8045f8a
+      internalID: 473940993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 73
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b4b8c5bdc2e2479afeaf91639a72e
+      internalID: -2049787864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 73
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a57255058fbe438cf496130d3e125
+      internalID: -426199656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 73
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477f85553ce93c4eae3091d38e1bfbb
+      internalID: 773175996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 73
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73610568c489b429a1a17fa37f4125
+      internalID: 1901438479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 73
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9ee833b9fdf64d8d074e47e94b8e4
+      internalID: 1380163335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d152fe41ab31c0444a14ddf058c138f6
+      internalID: 222281570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd41f3ee99d2c847867d24c40650900
+      internalID: 1278355519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b3df317b054842a20b9846e5877dd
+      internalID: 1474823560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f58a9159d6760449071fe26781b29b
+      internalID: 1880319641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 11
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7f184667be954fbbf975a19039d1f
+      internalID: 354036797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enfermo 2_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 8
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b364a1e87eac15c4e9a0a23a3e8d446b
+      internalID: 1371785741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enfermo 2_0: -1611366671
+      Enfermo 2_1: 457319910
+      Enfermo 2_10: -1978400933
+      Enfermo 2_100: 2093023996
+      Enfermo 2_101: -2053699853
+      Enfermo 2_102: 1995331347
+      Enfermo 2_103: 1165634334
+      Enfermo 2_104: 952662873
+      Enfermo 2_105: -1510875071
+      Enfermo 2_106: -1513285593
+      Enfermo 2_107: 1675336491
+      Enfermo 2_108: -1203183882
+      Enfermo 2_109: -1657871474
+      Enfermo 2_11: -1490760352
+      Enfermo 2_110: -2113978584
+      Enfermo 2_111: 1787590304
+      Enfermo 2_112: 165310740
+      Enfermo 2_113: -940979652
+      Enfermo 2_114: -1158272781
+      Enfermo 2_115: -106432447
+      Enfermo 2_116: -764159287
+      Enfermo 2_117: 1235601867
+      Enfermo 2_118: -783555325
+      Enfermo 2_119: -1323456361
+      Enfermo 2_12: -617906416
+      Enfermo 2_120: -1012310127
+      Enfermo 2_121: -1745058090
+      Enfermo 2_122: 1622396575
+      Enfermo 2_123: 914584283
+      Enfermo 2_124: 1689128021
+      Enfermo 2_125: 1918507963
+      Enfermo 2_126: 872061403
+      Enfermo 2_127: 869617345
+      Enfermo 2_128: -207482564
+      Enfermo 2_129: -211825989
+      Enfermo 2_13: -1189783578
+      Enfermo 2_130: 1015820332
+      Enfermo 2_131: -935918986
+      Enfermo 2_132: -1693831769
+      Enfermo 2_133: 167627113
+      Enfermo 2_134: 487704273
+      Enfermo 2_135: 1651555027
+      Enfermo 2_136: -560093668
+      Enfermo 2_137: -2048242644
+      Enfermo 2_138: 339863549
+      Enfermo 2_139: -332649946
+      Enfermo 2_14: -1546211597
+      Enfermo 2_140: -201286088
+      Enfermo 2_141: 1518228101
+      Enfermo 2_142: -2100230729
+      Enfermo 2_143: -222341514
+      Enfermo 2_144: 661350977
+      Enfermo 2_145: -1302781199
+      Enfermo 2_146: 1440729793
+      Enfermo 2_147: 416164484
+      Enfermo 2_148: -134009735
+      Enfermo 2_149: 685940742
+      Enfermo 2_15: -1066633446
+      Enfermo 2_150: -1605116369
+      Enfermo 2_151: 800634858
+      Enfermo 2_152: 1357007189
+      Enfermo 2_153: -235842773
+      Enfermo 2_154: 1019899982
+      Enfermo 2_155: 1061973123
+      Enfermo 2_156: 1458855554
+      Enfermo 2_157: 1508077570
+      Enfermo 2_158: -47643643
+      Enfermo 2_159: 1237720252
+      Enfermo 2_16: -1816651379
+      Enfermo 2_160: -1069594412
+      Enfermo 2_161: -1436649068
+      Enfermo 2_162: 1845915731
+      Enfermo 2_163: 714309788
+      Enfermo 2_164: 1762346329
+      Enfermo 2_165: 2096899020
+      Enfermo 2_166: 473940993
+      Enfermo 2_167: -2049787864
+      Enfermo 2_168: -426199656
+      Enfermo 2_169: 773175996
+      Enfermo 2_17: 508523778
+      Enfermo 2_170: 1901438479
+      Enfermo 2_171: 1380163335
+      Enfermo 2_172: 222281570
+      Enfermo 2_173: 1278355519
+      Enfermo 2_174: 1474823560
+      Enfermo 2_175: 1880319641
+      Enfermo 2_176: 354036797
+      Enfermo 2_177: 1371785741
+      Enfermo 2_18: 1611831945
+      Enfermo 2_19: 2075629216
+      Enfermo 2_2: -1674452850
+      Enfermo 2_20: 165459993
+      Enfermo 2_21: -1084786079
+      Enfermo 2_22: 98945334
+      Enfermo 2_23: -1318841980
+      Enfermo 2_24: 674678888
+      Enfermo 2_25: -201913185
+      Enfermo 2_26: -750550952
+      Enfermo 2_27: -1966018084
+      Enfermo 2_28: -1306539429
+      Enfermo 2_29: 905033835
+      Enfermo 2_3: 293673656
+      Enfermo 2_30: 1498578087
+      Enfermo 2_31: -1278498153
+      Enfermo 2_32: -274363076
+      Enfermo 2_33: 594567517
+      Enfermo 2_34: -1896302495
+      Enfermo 2_35: 1482599151
+      Enfermo 2_36: 1248104007
+      Enfermo 2_37: -814061591
+      Enfermo 2_38: 1079419189
+      Enfermo 2_39: 1750604971
+      Enfermo 2_4: -331087458
+      Enfermo 2_40: -293697053
+      Enfermo 2_41: 1344830024
+      Enfermo 2_42: -918562524
+      Enfermo 2_43: -1744862541
+      Enfermo 2_44: 1287500873
+      Enfermo 2_45: 980784171
+      Enfermo 2_46: -965134260
+      Enfermo 2_47: -166860407
+      Enfermo 2_48: -1481781997
+      Enfermo 2_49: -1388296919
+      Enfermo 2_5: -558858174
+      Enfermo 2_50: 250210724
+      Enfermo 2_51: -880762120
+      Enfermo 2_52: 1896426494
+      Enfermo 2_53: 1517981303
+      Enfermo 2_54: -1437034233
+      Enfermo 2_55: 465542977
+      Enfermo 2_56: 1491195731
+      Enfermo 2_57: 1333073921
+      Enfermo 2_58: -2046330343
+      Enfermo 2_59: 676402265
+      Enfermo 2_6: 1955927962
+      Enfermo 2_60: 732780957
+      Enfermo 2_61: -1947851396
+      Enfermo 2_62: -1981992118
+      Enfermo 2_63: -736422765
+      Enfermo 2_64: -1428160651
+      Enfermo 2_65: 1107401215
+      Enfermo 2_66: -130022994
+      Enfermo 2_67: 1843011270
+      Enfermo 2_68: -560286280
+      Enfermo 2_69: -438135932
+      Enfermo 2_7: -1092111027
+      Enfermo 2_70: -18059646
+      Enfermo 2_71: 885101199
+      Enfermo 2_72: 1962099087
+      Enfermo 2_73: -386885029
+      Enfermo 2_74: -1398394705
+      Enfermo 2_75: -1267586429
+      Enfermo 2_76: -282159269
+      Enfermo 2_77: -1685622418
+      Enfermo 2_78: 447742305
+      Enfermo 2_79: -1656195630
+      Enfermo 2_8: 1322847734
+      Enfermo 2_80: 726478343
+      Enfermo 2_81: 1496067948
+      Enfermo 2_82: -1761170005
+      Enfermo 2_83: 514638665
+      Enfermo 2_84: -145180445
+      Enfermo 2_85: 458078715
+      Enfermo 2_86: -1620419274
+      Enfermo 2_87: 1200325011
+      Enfermo 2_88: 931300873
+      Enfermo 2_89: 1451224422
+      Enfermo 2_9: 1389432582
+      Enfermo 2_90: 1549441071
+      Enfermo 2_91: 971753245
+      Enfermo 2_92: 1872109168
+      Enfermo 2_93: -919097307
+      Enfermo 2_94: 1320198631
+      Enfermo 2_95: 478923657
+      Enfermo 2_96: -676940176
+      Enfermo 2_97: 770816221
+      Enfermo 2_98: -323268138
+      Enfermo 2_99: 1224391572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

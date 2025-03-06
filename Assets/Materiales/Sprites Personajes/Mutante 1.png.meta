@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 4cbcb4a10107e744793590ea7b76f561
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mutante 1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1286
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93967b42f4580cf4ca25e9e584c06bbb
+      internalID: -959236226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1286
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e26f74d0e394c47a6e3d6bd2c44d03
+      internalID: 435846832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1286
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242525e0b1bd15345a171f95f4be0f42
+      internalID: 1400279047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1286
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090907fdf9ee5484595ecb4d50bfac8a
+      internalID: 1194929307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1286
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71100847caaefb54a9c5d75f4b3652c2
+      internalID: -1750907015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1286
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912566242c65a04c9c5d5debffa73e4
+      internalID: -14889200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1286
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e2488e84a36e44864fdcec3f402c1
+      internalID: -290451182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1222
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86568371d10ecf4596ce3b01f338cfc
+      internalID: -172334010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1222
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64fac108c39d7646a4f07d9de65b572
+      internalID: -198890483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1222
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33defc385704f340817cee53a9f88ae
+      internalID: -140629942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1222
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7344976048cfe7e41b9a22fb5bc1185f
+      internalID: 1476439999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1222
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d8ac93a464ba41b4ea8996af673fb
+      internalID: -929873426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1222
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d10a638c0ea8242a6c32421ed63072
+      internalID: -1397720910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1222
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5226be9733199408147eb1f0e9ea34
+      internalID: 749571903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1157
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9e861aa6e39c4f90cffb2e794df28
+      internalID: -1319771328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1157
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96306462703f9b04baae8d2a92df5e77
+      internalID: -653604956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1157
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffbceb0f9c6cc64eaae811e763e128d
+      internalID: 831668039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1157
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca725904964064192f0c5e2ab049bd
+      internalID: 1894368689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1157
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b463500527f048a32c74e92d7d693
+      internalID: -1653598996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1157
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6878287615b54e87eab0a18ab2662
+      internalID: 228677614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1157
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c8c5cae4ddfc4998a2489b206e62c
+      internalID: 1592289174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1093
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4ff1b1d2fe764caf4491b023c726a
+      internalID: -1926167010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1093
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048fc6355960d4a4e92b00d0872fcf6f
+      internalID: 1737845883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1093
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff62e3cdf1ef9d42b9c5130ec0e8939
+      internalID: 2039041989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1093
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d9217249f8e94aa0c9fdeddcbe093
+      internalID: -1698240648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1093
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f63d00c6650d44e9236d396a48e592
+      internalID: 448972261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1093
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23c4ebc56303348a58f8d038d24a4b
+      internalID: -591189077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1093
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9442d72d6cfa3444a6aba73086c71b6
+      internalID: 1712919723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1030
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af91f70319b0aec49ae6275a1fbc71fa
+      internalID: -2104949785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1028
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a4dd30d7589e4b946f8c62ddfe915
+      internalID: 803450448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1028
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf84865ff092a945821a06748e5a29f
+      internalID: -852830616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1028
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4476204fcbc9eed4c94837fca873f833
+      internalID: 1340255918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1028
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771197da8e0483049b1ce849ac321127
+      internalID: 576892140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1028
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716459c1c3de9341bc726a8da7aada0
+      internalID: 1990334101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1028
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f5a4d97adf744f9e9a25ebc6f6cc6
+      internalID: 194471045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1028
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda8a57eda7e6e469df7a5fbf62cf56
+      internalID: -1603030909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 966
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f09c95da369942ba89aa4843c7f36
+      internalID: 196607083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 966
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e4bd6cda460149b9187f61aa2ebff
+      internalID: 73299603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 966
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72281c68cff86146b038c10eb085ad5
+      internalID: 472502993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 966
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e95f0e238bd3a94bbd93f543adf2020
+      internalID: -211900567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 966
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074bf88b34f22b14591fc5ecc6fc5d1a
+      internalID: 1141311030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 966
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee160c77d0a6844b94cdf8655e327d
+      internalID: -2109241133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 966
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb43f730172af4788bed9a2d5b3952
+      internalID: -1489566875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 966
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46cd2994e376f46b5a3fdaff06f0e0
+      internalID: 1671807406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 901
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d15256c5d357a46840543c808536f5
+      internalID: -1498713804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 903
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6526f811ec084ca9bb6203da8f788
+      internalID: -512793948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 903
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a44daceeeca54492cddc26ce07eaa
+      internalID: -2055568417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 903
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4467361180334b91964fd3630323d
+      internalID: 714155604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 903
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb19076134c582478c71d90c519dcfe
+      internalID: -847767103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 903
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15022f70144a58d42b6674d703995e79
+      internalID: -447989706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 903
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f94c247af9d474e9a24e6d6d1a0ef2
+      internalID: 796141793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 903
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd1813777eabb34ab3c9d384acb6de9
+      internalID: -1553265958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 837
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce42d0b16d17984bbfdcbc591b8eb97
+      internalID: 1863064020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 837
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62251cf4c7a9c4349a96fd1177d61c8c
+      internalID: 1133164048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 837
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a263385f0cff51447859c12c2754cf53
+      internalID: 333976107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 837
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aabdcb6217615458da2992b9119a63
+      internalID: -1617896744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 837
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea11c8d209b5247b4cdd29cbe79408
+      internalID: 1700736650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 837
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af4268bc5c47949adbc588b2047f0d
+      internalID: 1595091716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 837
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a7f190b450a954dac1342dc4179719
+      internalID: -803223148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 837
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c5e18f841dc9439e3ef0170a82d27
+      internalID: -1882623955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 775
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c25ff5dbcf5e449761881a56453cf
+      internalID: 665538648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 775
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20582306648fb4c92aa5ecb3339511
+      internalID: 1141843223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 774
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e8127e4e04554092119cb1bb906c6
+      internalID: 656605807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 773
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea98853540edf4092de5bed60dffd4
+      internalID: -152411780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 774
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c43bd09362bd40ba0d1b83de015dc
+      internalID: 2094294528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 775
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f2e9dc61b13b541990c89ac42a56e6
+      internalID: -922059279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 774
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aaa4aae5f0fc543b7c3c42631558ce
+      internalID: -524473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 773
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522b4f6bf2431e49836d864a5c09414
+      internalID: -232334215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 774
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9983c891878c77c46af103539947ffa0
+      internalID: -151294678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 710
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb209e07bad96c409993fcc779c4c8c
+      internalID: 1473966500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 710
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4715e36f8782d4d863bc50b0330065
+      internalID: 908818466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 710
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2863e84e2cfa45346850ebbc6b4050ba
+      internalID: 98541136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 710
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdae127fb086fa418ee5fa71c31ced3
+      internalID: 1328614811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 710
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff84d7a84b159848a02366d85192062
+      internalID: 121796659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 710
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7fd5d5833c4d4e9424db3363b308f
+      internalID: -1147873356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 710
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f04b7ce4344346b14d2cc871e1fd5
+      internalID: -1541101209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 710
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f398aa40ced2e1a41838b8ab63e5ed51
+      internalID: -1429029732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 710
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d2c85ae0504db488276f3f2a0058ad
+      internalID: -1217273305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 645
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad7b15927940b41a85bb5acfb19763
+      internalID: 14287696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 645
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24c558e6162fe4aab3baf0c0bffc34
+      internalID: -1519965065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 645
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87349db4e24721646aba1444e624d940
+      internalID: 1400777302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 645
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4765853a8ca6274188b6af877a69be4
+      internalID: 135334519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 645
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e573597325a16db429d94cd9c8134545
+      internalID: -592344686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 645
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a26b2db727b045b0a006913e42e0e
+      internalID: 375227382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 645
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc52150db09664ba4cb5f66b3ac79c
+      internalID: -1245208544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 644
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b66217d34c0a41a08e81183b23842
+      internalID: -1469217143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 644
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c0c032f680ec4485ca95ed7753c5a
+      internalID: -1642542463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 581
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3e01f420dd174fba14f251a7f01e3
+      internalID: 2045407694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 581
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac56c771229e0c49a0e23417e46b943
+      internalID: 337880939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 582
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b2375d7d096642825c8c85c74d6a1
+      internalID: -676798299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 582
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9768b8be0a1248f4f9150269e0bfc73f
+      internalID: 486747336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 582
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b16e4ebd2dcb04ba07ca25910ab83a
+      internalID: 1931123060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 581
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f608c998135194abf9ae95c4da602c
+      internalID: 601935540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 581
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cb941739a03f49bcd3056851d26f1
+      internalID: 616231515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3f00abdeb52c43a8c1d526a277c73
+      internalID: 670119284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 581
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975f2fc642ee5a48b1b0674d22040e1
+      internalID: 1157998252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 518
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106997e6d6ae64541ab6d4a05f01de96
+      internalID: 1522611896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 517
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0dc10ba71942d41a6497d48cb25c43
+      internalID: 1747309673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 517
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b87ad0d3418854ebe3750d8306dcb6
+      internalID: 172351996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 517
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1de2af5e415684d9ec0a11f60fe8b2
+      internalID: 2114037385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 517
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d620794dc574234191db14dbadfa237
+      internalID: 1848477390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 517
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24ec589912ddd4fa5f61eedd0aa9f5
+      internalID: 1676007287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 454
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52a87f1ce08d2842a4ad2873b6b8738
+      internalID: -110830541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 454
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e09082654c4b94db7655f6c56070ec
+      internalID: 1922391964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 454
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb8d42a10eebc4399d6f005d8fd80e
+      internalID: 181567934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 454
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a26e07ac3906404883bcbfc64b078e0
+      internalID: 715320570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 454
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecae285818602e45a9bdaab2b28a6df
+      internalID: -2051087988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 454
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382584e6823cc2348b689f664ddcd732
+      internalID: -140709397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 389
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9015498b85b0542b29add3accb5876
+      internalID: 1831323469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 389
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe846e4f7cc2c943b458031447264a6
+      internalID: 1202670397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 389
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244b57f26e4ca8f44abee3566d7b080c
+      internalID: 2107195358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 389
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b9c105ea83f146afb2f811f45478c
+      internalID: -1242629026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 389
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d765de95d5f03d46b166f4a46f8a7d5
+      internalID: -671419038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 389
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a4b77c49aeae4993d1f3f1d5851a7
+      internalID: 450988360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 325
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb775ad49102e0742bbcf80b9ec49331
+      internalID: -1869743431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 325
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d97e5f4b02464fb0d3f26139e560b
+      internalID: -248747211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 325
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b8b5f1e45ece1438a128a42f008ea1
+      internalID: 383547072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 325
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82764d714e8b544afd0627ac946ada
+      internalID: 1515747698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 325
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a17a7cb4d1314b8af668600ec2996
+      internalID: 1185915841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 325
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddebf57282216db4aa5d5660e9cbcd3e
+      internalID: -570277099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 262
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28d6cc8b4d31364f991d799528061f8
+      internalID: 549189899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 260
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a66c8ded9d924a9258d73ac37ff21
+      internalID: 1964394724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72537dffcf8624e4c82f843d642beaaf
+      internalID: -1023172819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a9fdfd93bef840bb8c18ba1f4321c
+      internalID: 2077353407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a2461c3760cf43a0d6c47d1c96cc4
+      internalID: -99842737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e7a5f25bde714ea8a60fbe5b5a97e
+      internalID: 136057726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad04b386364d294d967be1735fa0f5f
+      internalID: -96381580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d4cfb15ba79444940b107975f45c5
+      internalID: -1781691171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 260
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998e82789097a149afa9501bc0f1f44
+      internalID: 2035316927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db0c95af183f9d4b9c80da5f2ae98d7
+      internalID: -1756605925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591c3e8c692850b4f9848809aa2c84b1
+      internalID: 1061455966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7f744a1748ab946821c5f6092c91ab
+      internalID: 546072253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 260
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489f353cb060b647a1772d53dad0255
+      internalID: 61974898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 198
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64da5bc8cb1883746ba417a66b32b35c
+      internalID: 1673101242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1abf0b17945a4290f39bf5a2d3ccb
+      internalID: -874796410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 198
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2928e91136cf144bb4ed5acc2383da3
+      internalID: -105657786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 198
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c4f95f54839c947925cdbf2819298d
+      internalID: -656326890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 198
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8349b413edae7e41a9186ee04e153e0
+      internalID: -1066389511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 198
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8326822dcba4841831e3a8af1d4e41
+      internalID: -1361317197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 198
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695d473acca1b7c49a24d9d5a1c3e443
+      internalID: -28949699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 198
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dd9a7c3ea8d8d4a9df9950f0216ce6
+      internalID: -265388529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 198
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018eacb0baae084b8363d0d0e72aaa4
+      internalID: 1107999841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 198
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8529687201fbef42b2632245cc46cbd
+      internalID: -170863397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 198
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b004578b0190a14a93df759a3f14f4c
+      internalID: 660442133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 198
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0aa05f089125742bb5fde253212d14
+      internalID: 691931688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 198
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da07bcd001a35a408276e25d0879735
+      internalID: -660891346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 133
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787476f20376516469ab4bce0a3f21bd
+      internalID: -570555899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 135
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76b37a4d8b9c34199caf2d5978eb97
+      internalID: -117399633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_148
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 135
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f787de963a8394eb44a2a7c806efd3
+      internalID: 999985500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26162b371b8870f49ad6a66578750d13
+      internalID: -159192535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c83f7b9f036154449a27bd22343d0ee
+      internalID: 68659486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_151
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77e8b41c6ba224ba29cfc8fff7b43d
+      internalID: 1090435325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_152
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aba1dd7c497be4fb30cb48b88fdf98
+      internalID: 1484880117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e701a9bc240f69e44a4b8446ca99cfd3
+      internalID: -1895909860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_154
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e852ced1576b75340a648146111bb530
+      internalID: -773394678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_155
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2990e9557c4ee4aaed6426ac2afb3c
+      internalID: -1028119961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_156
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a590e3474e21054c8665411d2cc365c
+      internalID: -749154895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_157
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7771446e775225f4fa3bd9d1ac0f88b1
+      internalID: 423912525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_158
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 134
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2691138ef8488e649aa08db8eb57528d
+      internalID: 2004761670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 69
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a514759616e3745b18180d04f3f79d
+      internalID: 1060141564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d3b7b5d48cb984db284bc472478385
+      internalID: -1052730980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 69
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc18d475e4a710b4fa9fa94025dd088f
+      internalID: -685150116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 69
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb836a9eacba7419c89b2e39930f1f
+      internalID: -1958356573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 69
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b55da59ce83344a0d12c9274772dd
+      internalID: -1321344384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 69
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25733f3333ab5e4479b8748cd2f13bff
+      internalID: 574793479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 69
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454f1b147754094798e5b0eaca171c8
+      internalID: 211093725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 69
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e56633f19caf40b8ed0836a8bbb0e
+      internalID: -1519991538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 69
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef36fc1d3c38948af7da91d32d9f65
+      internalID: -1313747379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 69
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c5914d3110304f877ff9eb153ab73
+      internalID: -570470521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 69
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ae6aa35e986b48b1dda32d4c54c97
+      internalID: 1233907991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 69
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9993b529c2234e8abfb1fe441040b
+      internalID: -2098542596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 69
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589bd2a540d9d345845989d12d27760
+      internalID: -1185391712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85b7a4899385d4eb014f3b7561731d
+      internalID: 820433690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936f60732eccf846a6f9e67ad2d603f
+      internalID: -804851580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4fbd5a933c4d14d8b310e24b907a49
+      internalID: -935803569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d409662c6bdaf45a8116d8dbee211d
+      internalID: -1386692559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcedecbfc7478934dba49c5ca736ba88
+      internalID: 572978828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutante 1_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f32634dc2bf14694a4db2e1d2469c
+      internalID: -1202764626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24173dfedc2598d45b5d284cdb39be6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mutante 1_0: -959236226
+      Mutante 1_1: 435846832
+      Mutante 1_10: 1476439999
+      Mutante 1_100: 1848477390
+      Mutante 1_101: 1676007287
+      Mutante 1_102: -110830541
+      Mutante 1_103: 1922391964
+      Mutante 1_104: 181567934
+      Mutante 1_105: 715320570
+      Mutante 1_106: -2051087988
+      Mutante 1_107: -140709397
+      Mutante 1_108: 1831323469
+      Mutante 1_109: 1202670397
+      Mutante 1_11: -929873426
+      Mutante 1_110: 2107195358
+      Mutante 1_111: -1242629026
+      Mutante 1_112: -671419038
+      Mutante 1_113: 450988360
+      Mutante 1_114: -1869743431
+      Mutante 1_115: -248747211
+      Mutante 1_116: 383547072
+      Mutante 1_117: 1515747698
+      Mutante 1_118: 1185915841
+      Mutante 1_119: -570277099
+      Mutante 1_12: -1397720910
+      Mutante 1_120: 549189899
+      Mutante 1_121: 1964394724
+      Mutante 1_122: -1023172819
+      Mutante 1_123: 2077353407
+      Mutante 1_124: -99842737
+      Mutante 1_125: 136057726
+      Mutante 1_126: -96381580
+      Mutante 1_127: -1781691171
+      Mutante 1_128: 2035316927
+      Mutante 1_129: -1756605925
+      Mutante 1_13: 749571903
+      Mutante 1_130: 1061455966
+      Mutante 1_131: 546072253
+      Mutante 1_132: 61974898
+      Mutante 1_133: 1673101242
+      Mutante 1_134: -874796410
+      Mutante 1_135: -105657786
+      Mutante 1_136: -656326890
+      Mutante 1_137: -1066389511
+      Mutante 1_138: -1361317197
+      Mutante 1_139: -28949699
+      Mutante 1_14: -1319771328
+      Mutante 1_140: -265388529
+      Mutante 1_141: 1107999841
+      Mutante 1_142: -170863397
+      Mutante 1_143: 660442133
+      Mutante 1_144: 691931688
+      Mutante 1_145: -660891346
+      Mutante 1_146: -570555899
+      Mutante 1_147: -117399633
+      Mutante 1_148: 999985500
+      Mutante 1_149: -159192535
+      Mutante 1_15: -653604956
+      Mutante 1_150: 68659486
+      Mutante 1_151: 1090435325
+      Mutante 1_152: 1484880117
+      Mutante 1_153: -1895909860
+      Mutante 1_154: -773394678
+      Mutante 1_155: -1028119961
+      Mutante 1_156: -749154895
+      Mutante 1_157: 423912525
+      Mutante 1_158: 2004761670
+      Mutante 1_159: 1060141564
+      Mutante 1_16: 831668039
+      Mutante 1_160: -1052730980
+      Mutante 1_161: -685150116
+      Mutante 1_162: -1958356573
+      Mutante 1_163: -1321344384
+      Mutante 1_164: 574793479
+      Mutante 1_165: 211093725
+      Mutante 1_166: -1519991538
+      Mutante 1_167: -1313747379
+      Mutante 1_168: -570470521
+      Mutante 1_169: 1233907991
+      Mutante 1_17: 1894368689
+      Mutante 1_170: -2098542596
+      Mutante 1_171: -1185391712
+      Mutante 1_172: 820433690
+      Mutante 1_173: -804851580
+      Mutante 1_174: -935803569
+      Mutante 1_175: -1386692559
+      Mutante 1_176: 572978828
+      Mutante 1_177: -1202764626
+      Mutante 1_18: -1653598996
+      Mutante 1_19: 228677614
+      Mutante 1_2: 1400279047
+      Mutante 1_20: 1592289174
+      Mutante 1_21: -1926167010
+      Mutante 1_22: 1737845883
+      Mutante 1_23: 2039041989
+      Mutante 1_24: -1698240648
+      Mutante 1_25: 448972261
+      Mutante 1_26: -591189077
+      Mutante 1_27: 1712919723
+      Mutante 1_28: -2104949785
+      Mutante 1_29: 803450448
+      Mutante 1_3: 1194929307
+      Mutante 1_30: -852830616
+      Mutante 1_31: 1340255918
+      Mutante 1_32: 576892140
+      Mutante 1_33: 1990334101
+      Mutante 1_34: 194471045
+      Mutante 1_35: -1603030909
+      Mutante 1_36: 196607083
+      Mutante 1_37: 73299603
+      Mutante 1_38: 472502993
+      Mutante 1_39: -211900567
+      Mutante 1_4: -1750907015
+      Mutante 1_40: 1141311030
+      Mutante 1_41: -2109241133
+      Mutante 1_42: -1489566875
+      Mutante 1_43: 1671807406
+      Mutante 1_44: -1498713804
+      Mutante 1_45: -512793948
+      Mutante 1_46: -2055568417
+      Mutante 1_47: 714155604
+      Mutante 1_48: -847767103
+      Mutante 1_49: -447989706
+      Mutante 1_5: -14889200
+      Mutante 1_50: 796141793
+      Mutante 1_51: -1553265958
+      Mutante 1_52: 1863064020
+      Mutante 1_53: 1133164048
+      Mutante 1_54: 333976107
+      Mutante 1_55: -1617896744
+      Mutante 1_56: 1700736650
+      Mutante 1_57: 1595091716
+      Mutante 1_58: -803223148
+      Mutante 1_59: -1882623955
+      Mutante 1_6: -290451182
+      Mutante 1_60: 665538648
+      Mutante 1_61: 1141843223
+      Mutante 1_62: 656605807
+      Mutante 1_63: -152411780
+      Mutante 1_64: 2094294528
+      Mutante 1_65: -922059279
+      Mutante 1_66: -524473
+      Mutante 1_67: -232334215
+      Mutante 1_68: -151294678
+      Mutante 1_69: 1473966500
+      Mutante 1_7: -172334010
+      Mutante 1_70: 908818466
+      Mutante 1_71: 98541136
+      Mutante 1_72: 1328614811
+      Mutante 1_73: 121796659
+      Mutante 1_74: -1147873356
+      Mutante 1_75: -1541101209
+      Mutante 1_76: -1429029732
+      Mutante 1_77: -1217273305
+      Mutante 1_78: 14287696
+      Mutante 1_79: -1519965065
+      Mutante 1_8: -198890483
+      Mutante 1_80: 1400777302
+      Mutante 1_81: 135334519
+      Mutante 1_82: -592344686
+      Mutante 1_83: 375227382
+      Mutante 1_84: -1245208544
+      Mutante 1_85: -1469217143
+      Mutante 1_86: -1642542463
+      Mutante 1_87: 2045407694
+      Mutante 1_88: 337880939
+      Mutante 1_89: -676798299
+      Mutante 1_9: -140629942
+      Mutante 1_90: 486747336
+      Mutante 1_91: 1931123060
+      Mutante 1_92: 601935540
+      Mutante 1_93: 616231515
+      Mutante 1_94: 670119284
+      Mutante 1_95: 1157998252
+      Mutante 1_96: 1522611896
+      Mutante 1_97: 1747309673
+      Mutante 1_98: 172351996
+      Mutante 1_99: 2114037385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
